@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HabnergabrielCB
 - 👀 I’m interested in leaarn about Progamming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, C and starting front-end
 - 💞️ I’m looking to collaborate on everything i can be helpful
-- 📫 How to reach me you can't LOL
+- 📫 My instagram: @habner_gabriel
 
 <!---
 HabnergabrielCB/HabnergabrielCB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
