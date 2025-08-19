@@ -4,18 +4,22 @@
 - 💞️ I’m looking to collaborate on everything i can be helpful
 - 📫 My instagram: @habner_gabriel
 
-## 🖥️ Languages I Use
+## 🖥️ Linguagens e Ferramentas
 
 <p>
-  <!-- C language logo -->
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C Language" title="C Language" width="48" height="48" />
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />
 
-  <!-- Arduino logo -->
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="48" height="48" />
+
+  <!-- Arduino -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="48" height="48" />
 
-   <!-- C Programming Language -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" />
 </p>
+
 
 
 
