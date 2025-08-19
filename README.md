@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @HabnergabrielCB
-- 👀 I’m interested in leaarn about Progamming
-- 🌱 I’m currently learning Python, C and starting front-end
-- 💞️ I’m looking to collaborate on everything i can be helpful
+- 👋 Hi, I’m @HabnergabrielCB.
+- 👀 I’m interested in learn about Progamming.
+- 🌱 I’m currently learning Python, C, C++ and arduino.
+- 💞️ I’m looking to collaborate on everything i can be helpful.
 - 📫 My instagram: @habner_gabriel
+- 📫 My Linkedln: https://www.linkedin.com/in/habner-gabriel-9591b0322/
 
 ## 🖥️ Linguagens e Ferramentas
 
