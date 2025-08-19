@@ -4,14 +4,17 @@
 - 💞️ I’m looking to collaborate on everything i can be helpful
 - 📫 My instagram: @habner_gabriel
 
-
 ## 🖥️ Languages I Use
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />
+  <!-- C language logo -->
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C Language" title="C Language" width="48" height="48" />
+
+  <!-- Arduino logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="48" height="48" />
 </p>
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+
+
 
 
 <---
