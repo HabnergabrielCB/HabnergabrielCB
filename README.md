@@ -12,6 +12,9 @@
 
   <!-- Arduino logo -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino" width="48" height="48" />
+
+   <!-- C Programming Language -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="48" height="48" />
 </p>
 
 
