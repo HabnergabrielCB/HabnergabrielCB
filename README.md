@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on everything i can be helpful.
 - 📫 My instagram: @habner_gabriel
 - 📫 My Linkedln: https://www.linkedin.com/in/habner-gabriel-9591b0322/
+- 📫 My EMAIL: hgcb@academico.ufpb.br
 
 ## 🖥️ Linguagens e Ferramentas
 
