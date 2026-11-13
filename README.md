@@ -16,8 +16,10 @@ I'm a Computer Engineering undergraduate at the **Federal University of Paraíba
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-232F3E?style=for-the-badge&logo=intel&logoColor=white)
 
-**Frameworks, Libraries & Databases**
+**Frameworks & Libraries**
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Tools & OS**
